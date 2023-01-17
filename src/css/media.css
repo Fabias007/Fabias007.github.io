@@ -1,6 +1,69 @@
 @media screen and (max-width: 390px) {
-   .header {
-    color: black;
+   .block_1 {
+      width: 389px;
+      
    }
+   .menu_item {
+      margin-top: 15px;
+      font-size: 12px;
+   }
+   .photo {
+      height: 300px;
+      margin-top: -50px;
+   }
+   .header {
+      margin-top: 20px;
+      font-size: 40px;
+      color: bisque;
+   }
+   .header_1 {
+      font-size: 25px;
+   }
+   .bg {
+      margin-top: 15px;
+      margin-left: 33px;
+      width: 300px;
+      height: 300px;
+   }
+   .title {
+      padding-top: 10px;
+   }
+   .content {
+      font-size: 18px;
+   }
+   .bg_1 {
+      margin-bottom: -120px;
+      width: 300px;
+      height: 300px;
+   }
+   .block_2 {
+      height: 1360px;
+   }
+  .bg_form {
+   margin-left: -100px;
+   width: 50px;
+   height: 50px;
+  }
+  .bg_form .title {
+   display: flex;
+   align-items: center;
+   margin-left: 230px;
+   margin-top: -30px;
+  
    
+  }
+  .form_feed input {
+    margin-left: 173px;
+    margin-top: 20px;
+    border-radius: 20px;
+    width: 220px;
+    padding-left: 15px;
+  }
+  .form_feed textarea {
+   margin-left: 145px;
+   width: 270px;
+  }
+  .form_feed button {
+   margin-left: 178px;
+  }
 }
